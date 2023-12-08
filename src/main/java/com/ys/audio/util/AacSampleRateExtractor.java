@@ -1,12 +1,10 @@
 package com.ys.audio.util;
 
 import net.sourceforge.jaad.aac.Decoder;
-import net.sourceforge.jaad.aac.SampleFrequency;
 import net.sourceforge.jaad.aac.SampleRate;
 import net.sourceforge.jaad.adts.ADTSDemultiplexer;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
